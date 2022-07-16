@@ -21,7 +21,7 @@
 </div>
 
 ### ⏱️ Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uwantwater&theme=black-ice&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uwantwater&theme=black-ice)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwantwater&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
