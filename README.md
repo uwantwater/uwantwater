@@ -16,14 +16,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap5" width="40">
-  <img src="https://www.tanx.dev/img/portfolio/skills/flask_hu72cabb78f46b7a6be69f75b8332bcccc_7761_360x0_resize_q85_box_3.png" title="Flask" alt="Flask" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40">
 </div>
 
 ### ⏱️ Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uwantwater&theme=black-ice)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwantwater&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 uwantwater/uwantwater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
