@@ -1,8 +1,4 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/564x/fa/50/0f/fa500f3c754f138a51fd15224bcb9f44.jpg" width="300">
-</div>
-
--  Hi, I’m Aradhya Dhungel.
+-  Hi, I am Aradhya Dhungel.
 -  I’m interested in Machine Learning and Artificial Intelligence.
 -  I’m currently learning Rust programming language.
 -  How to reach me: aradhyadhungelr@gmail.com
